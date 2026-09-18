@@ -26,6 +26,11 @@ https://radio.905heartfm.com:8000/radio.mp3
 #EXTINF:-1,93.5 City Radio
 https://cdnstream1.typicalmedia.net/yourradio
 
+#EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment- Kapamilya Online Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #ECTINF:-1,Kapamilya Online Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707731616/ei/QJbJZZiXIZ2D5t0P9PiQwAs/ip/175.176.7.129/id/XHDrMh-Ee6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f1DbtFosIjbTMvHJwmGcCHEzJoLi1hMiETEb40m61Ag/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,ctier,playlist_duration,manifest_duration,maudio,gcr,spc,vprv,go,itag,playlist_type/sig/AJfQdSswRAIgOqNkFSx-6Ep_J5hh0La9VRHl6lSEycauErSbih6UOXoCIDO5q0yz2ioWqajCwDT3xZXqUSAJmqG_BihHzBaiqpC9/file/index.m3u8
